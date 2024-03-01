@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Juliocesarsmarques
+- 👀 I’m interested in learning SQL and Python
+- 🌱 I’m currently learning SQL and Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me admjuliomarques@gmail.com
+- 😄 Pronouns: Julio Marques
