@@ -15,4 +15,3 @@ Aprendiz de SQL, Python, Tableau, Grafana, Looker, Amplitude.
   <a href = "mailto:admjuliomarques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  📫 Meu e-mail é admjuliomarques@gmail.com
- 
