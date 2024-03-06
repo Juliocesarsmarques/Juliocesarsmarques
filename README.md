@@ -1,7 +1,7 @@
 <img width=75% src="https://media.licdn.com/dms/image/D5616AQFgaBoa9bk1ww/profile-displaybackgroundimage-shrink_350_1400/0/1709061853884?e=1715212800&v=beta&t=VL8iYOmt2m1pLJZpTpu987pYtYDOvOTlNqX3B1TYIqM"/>
 
 
-## - Olá, sou o Julio Marques e bem vindo(a) ao meu github  
+##  Olá, sou o Julio Marques e bem vindo(a) ao meu github  
 
  
 - Sou Formado em Administração, Pós Graduado em Gestão Empresarial e Pós Graduando em Gestão de Projetos.
