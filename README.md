@@ -32,21 +32,13 @@ SQL, Python, Tableau, Grafana, Looker, Amplitude.
 - Ferramentas de Análises: Tableau, Grafana, looker. SQL (Udemy)
 - Idioma: Inglês - Nível Básico
 
-<div align="center">
-  <h3>Estatísticas </h3>
-<p align="center"> 
-  <img width="434px" src="https://github-readme-stats.vercel.app/api?username=Juliocesarsmarques&theme=gotham&show_icons=true" />
-  <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliocesarsmarques&hide=html&layout=compact&theme=gotham" />
- </div>
-
-<div align="center">
+ <div align="center">
 <h3>Vamos Conversar? </h3>
  
 
  [![Linkedin Badge](https://img.shields.io/badge/-JulioMarques-blue?style=flat&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/espjuliomarques/))]((https://www.linkedin.com/in/espjuliomarques/))
 [![Gmail Badge](https://img.shields.io/badge/-admjuliomarques@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:admjuliomarques@gmail.com)](mailto:admjuliomarques@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=raydevcp20.raydevcp20)
-
  </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
