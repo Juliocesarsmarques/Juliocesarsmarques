@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header"/>
+
+
 <img width=75% src="https://media.licdn.com/dms/image/D5616AQFgaBoa9bk1ww/profile-displaybackgroundimage-shrink_350_1400/0/1709061853884?e=1715212800&v=beta&t=VL8iYOmt2m1pLJZpTpu987pYtYDOvOTlNqX3B1TYIqM"/>
 
 
@@ -32,3 +35,6 @@ Idioma: Inglês - Nível Básico
  [![Linkedin Badge](https://img.shields.io/badge/-JulioMarques-blue?style=flat&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/espjuliomarques/))]((https://www.linkedin.com/in/espjuliomarques/))
 [![Gmail Badge](https://img.shields.io/badge/-admjuliomarques@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:admjuliomarques@gmail.com)](mailto:admjuliomarques@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=raydevcp20.raydevcp20)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
