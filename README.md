@@ -12,7 +12,16 @@
 
 - SQL, Python, Tableau, Grafana, Looker, Amplitude.
 
-
+### Ferramentas de Planejamento e Fluxo:
+- Fundamentos de Gestão de Projetos,EMP,  Introdução ao Scrum (DNC)
+### Ferramentas de Comunicação:
+- Slack, Hangout, Skype, Teamviewer e Google Meet, Gestão de pessoas:
+### Ferramentas de Análises
+- Tableau, Grafana, looker. SQL (Udemy)
+### Informática:
+- Microsoft Office 
+### Idioma:
+- CCAA - Nível Básico
 
 ###  Vamos Conversar?
  [![Linkedin Badge](https://img.shields.io/badge/-JulioMarques-blue?style=flat&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/espjuliomarques/))]((https://www.linkedin.com/in/espjuliomarques/))
