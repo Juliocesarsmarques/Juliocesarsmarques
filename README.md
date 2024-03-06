@@ -5,9 +5,12 @@
   </div>
 
 <div align="center">
-<h3>  Olá, sou o Julio Marques e bem vindo(a) ao meu github   </h3>
+<h3>  Bem vindo(a) ao meu github </h3>
    </div>
-   
+<div align="center">
+  <h3>  Olá, sou o Julio Marques <h3> 
+      </div>
+    
 - Sou Formado em Administração, Pós Graduado em Gestão Empresarial e Pós Graduando em Gestão de Projetos.
 - Sou Moderador no PMI-DF;
 - Já trabalhei no Ifood, Rappi e Qual Farmácia;
