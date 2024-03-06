@@ -15,6 +15,10 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
+Ferramentas de Planejamento e Fluxo: Fundamentos de Gestão de Projetos,EMP,  Introdução ao Scrum (DNC)
+Ferramentas de Comunicação: Slack, Hangout, Skype, Teamviewer e Google Meet, Gestão de pessoas:
+Ferramentas de Análises: Tableau, Grafana, looker. SQL (Udemy)
+Idioma: Inglês - Nível Básico
 
 
 ### **📈 Estatísticas**
@@ -22,13 +26,7 @@
   <img width="434px" src="https://github-readme-stats.vercel.app/api?username=Juliocesarsmarques&theme=gotham&show_icons=true" />
   <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliocesarsmarques&hide=html&layout=compact&theme=gotham" />
 
-Ferramentas de Planejamento e Fluxo: Fundamentos de Gestão de Projetos,EMP,  Introdução ao Scrum (DNC)
 
-Ferramentas de Comunicação: Slack, Hangout, Skype, Teamviewer e Google Meet, Gestão de pessoas:
-
-Ferramentas de Análises: Tableau, Grafana, looker. SQL (Udemy)
-
-Idioma: Inglês - Nível Básico
 
 ###  Vamos Conversar?
  [![Linkedin Badge](https://img.shields.io/badge/-JulioMarques-blue?style=flat&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/espjuliomarques/))]((https://www.linkedin.com/in/espjuliomarques/))
