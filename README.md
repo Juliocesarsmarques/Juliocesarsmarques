@@ -9,6 +9,13 @@
 ###  Estou Aprendendo
 - SQL, Python, Tableau, Grafana, Looker, Amplitude.
 
+#### Workstation Tools:
+
+![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+
+
 
 ### **📈 Estatísticas**
 <p align="center"> 
