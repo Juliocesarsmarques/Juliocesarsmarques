@@ -5,7 +5,8 @@
 
  
 - Sou Formado em Administração, Pós Graduado em Gestão Empresarial e Pós Graduando em Gestão de Projetos.
-- Sou Moderador no PMI-DF
+- Sou Moderador no PMI-DF;
+- Já trabalhei no Ifood, Rappi e Qual Farmácia;
 
 ###  Estou Aprendendo
 
