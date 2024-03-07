@@ -20,8 +20,6 @@
     <img src="https://img.shields.io/badge/Sql-018bff?style=for-the-badge&logo=microsoft-access&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />   
-
-
 </div>
 
 <div align="center">
@@ -30,8 +28,6 @@
 ![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-
-
 </div>
 
 - Ferramentas de Planejamento e Fluxo: Fundamentos de Gestão de Projetos,EMP,  Introdução ao Scrum (DNC)
@@ -42,7 +38,6 @@
  <div align="center">
 <h3>Vamos Conversar? </h3>
  
-
  [![Linkedin Badge](https://img.shields.io/badge/-JulioMarques-blue?style=flat&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/espjuliomarques/))]((https://www.linkedin.com/in/espjuliomarques/))
 [![Gmail Badge](https://img.shields.io/badge/-admjuliomarques@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:admjuliomarques@gmail.com)](mailto:admjuliomarques@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=raydevcp20.raydevcp20)
