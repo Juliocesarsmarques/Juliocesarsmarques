@@ -43,4 +43,25 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=raydevcp20.raydevcp20)
  </div>
 
+  <div>
+          <a href="https://github.com/melvincwng">
+          <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow"/>
+          </a>
+        </div>
+
+  <div>
+          <a href="https://user-badge.committers.top/singapore_private/melvincwng"><img src="https://user-badge.committers.top/singapore_private/melvincwng.svg" alt="SG Top Committers Badge">
+          </a>
+        </div>
+        &nbsp;
+        &nbsp;
+        <div>
+ <div>
+          <img src="https://komarev.com/ghpvc/?username=Juliocesarsmarques&color=brightgreen&label=Github%20Profile%20Views"/>
+        </div>
+        &nbsp;
+        &nbsp;
+        <div>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
