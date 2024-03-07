@@ -19,7 +19,9 @@
   <h3> Estou Aprendendo </h3>
     <img src="https://img.shields.io/badge/Sql-018bff?style=for-the-badge&logo=microsoft-access&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />   
+
+
 </div>
 
 <div align="center">
