@@ -15,21 +15,26 @@
 - Sou Moderador de Eventos no PMI-DF;
 - Já trabalhei no Ifood, Rappi e Qual Farmácia;
 
-
 <div align="center">
   <h3> Estou Aprendendo </h3>
-SQL, Python, Tableau, Grafana, Looker, Amplitude.
- </div>
- 
-#### Workstation Tools:
+    <img src="https://img.shields.io/badge/Sql-018bff?style=for-the-badge&logo=microsoft-access&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
+</div>
+
+<div align="center">
+  <h3> Ferramentas já trabalhada </h3>
 
 ![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
+
+</div>
+
 - Ferramentas de Planejamento e Fluxo: Fundamentos de Gestão de Projetos,EMP,  Introdução ao Scrum (DNC)
 - Ferramentas de Comunicação: Slack, Hangout, Skype, Teamviewer e Google Meet, Gestão de pessoas:
-- Ferramentas de Análises: Tableau, Grafana, looker. SQL (Udemy)
+- Ferramentas de Análises: Tableau, Grafana, looker. SQL (Udemy), Amplitude
 - Idioma: Inglês - Nível Básico
 
  <div align="center">
