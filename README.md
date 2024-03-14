@@ -22,7 +22,9 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />   
 </div>
 
-
+<div align="center">
+  <h3>  Cursos que já fiz <h3> 
+      </div>
 
 - Cursos de Planejamento e Fluxo: Fundamentos de Gestão de Projetos,  Introdução ao Scrum (DNC), Produtividade e performance ( Conquer)
 - Seminário EMPRETEC - SEBRAE – Novembro/2011
