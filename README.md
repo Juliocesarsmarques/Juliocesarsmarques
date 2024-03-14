@@ -30,8 +30,9 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 </div>
 
-- Ferramentas de Planejamento e Fluxo: Fundamentos de Gestão de Projetos,EMP,  Introdução ao Scrum (DNC)
-- Ferramentas de Comunicação: Slack, Hangout, Skype, Teamviewer e Google Meet, Gestão de pessoas:
+- Cursos de Planejamento e Fluxo: Fundamentos de Gestão de Projetos,  Introdução ao Scrum (DNC), Produtividade e performance ( Conquer)
+- Ferramentas de Planejamento: Burndown, EMP, Business Model Canvas, Scrum, Kanban, Jira, Bizagi e Trello; 
+- Ferramentas de Comunicação: Slack, Hangout, Skype, Teamviewer e Google Meet;
 - Ferramentas de Análises: Tableau, Grafana, looker. SQL, Amplitude
 - Conhecimento em ritos e cerimônias ágeis no nível de time: (Retrospectiva, Daily Scrum, Sprint Review, Sprint Planning, Refinamento)
 - Idioma: Inglês - Nível Básico
