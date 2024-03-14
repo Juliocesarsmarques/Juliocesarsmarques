@@ -31,6 +31,11 @@
 </div>
 
 - Cursos de Planejamento e Fluxo: Fundamentos de Gestão de Projetos,  Introdução ao Scrum (DNC), Produtividade e performance ( Conquer)
+- Seminário EMPRETEC - SEBRAE – Novembro/2011
+- Informática: Microsoft Office Intermediário;
+ 
+
+  
 - Ferramentas de Planejamento: Burndown, EMP, Business Model Canvas, Scrum, Kanban, Jira, Bizagi e Trello; 
 - Ferramentas de Comunicação: Slack, Hangout, Skype, Teamviewer e Google Meet;
 - Ferramentas de Análises: Tableau, Grafana, looker. SQL, Amplitude
