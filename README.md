@@ -32,9 +32,10 @@
 
 - Ferramentas de Planejamento e Fluxo: Fundamentos de Gestão de Projetos,EMP,  Introdução ao Scrum (DNC)
 - Ferramentas de Comunicação: Slack, Hangout, Skype, Teamviewer e Google Meet, Gestão de pessoas:
-- Ferramentas de Análises: Tableau, Grafana, looker. SQL (Udemy), Amplitude
+- Ferramentas de Análises: Tableau, Grafana, looker. SQL, Amplitude
+- Conhecimento em ritos e cerimônias ágeis no nível de time: (Retrospectiva, Daily Scrum, Sprint Review, Sprint Planning, Refinamento)
 - Idioma: Inglês - Nível Básico
-
+- 
  <div align="center">
 <h3>Vamos Conversar? </h3>
  
