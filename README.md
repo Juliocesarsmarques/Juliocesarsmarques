@@ -22,6 +22,12 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />   
 </div>
 
+
+
+- Cursos de Planejamento e Fluxo: Fundamentos de Gestão de Projetos,  Introdução ao Scrum (DNC), Produtividade e performance ( Conquer)
+- Seminário EMPRETEC - SEBRAE – Novembro/2011
+- Informática: Microsoft Office Intermediário;
+ 
 <div align="center">
   <h3> Ferramentas já trabalhada </h3>
 
@@ -29,12 +35,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 </div>
-
-- Cursos de Planejamento e Fluxo: Fundamentos de Gestão de Projetos,  Introdução ao Scrum (DNC), Produtividade e performance ( Conquer)
-- Seminário EMPRETEC - SEBRAE – Novembro/2011
-- Informática: Microsoft Office Intermediário;
- 
-
   
 - Ferramentas de Planejamento: Burndown, EMP, Business Model Canvas, Scrum, Kanban, Jira, Bizagi e Trello; 
 - Ferramentas de Comunicação: Slack, Hangout, Skype, Teamviewer e Google Meet;
